@@ -20,7 +20,7 @@ Toda a comunicação será realizada usando via classroom e email.
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I   (Prova prática-teórica - Individual) -02/10
+* Avaliação I   (Prova prática-teórica - Individual) -04/10
 * Avaliação II  (Prova Prática - Individual) - 23/10
 * Avaliação III (Projeto - Duplas) - 18/12
 
