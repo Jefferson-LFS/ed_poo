@@ -9,8 +9,8 @@
 ### Horários / Local
 
 * Horários:
-  - **Quartas (07:00-09:30)** - Lab Redes Convergentes.
-  - **Sextas (07.50-16:40)** - Lab Redes Convergentes.
+  - **Segunda (09:50 - 11.30)** - Lab 03.
+  - **Quinta (07.00 - 09.30)** - Lab 03.
 
 ## Comunicação
 
@@ -20,9 +20,9 @@ Toda a comunicação será realizada usando via classroom e email.
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I   (Prova prática-teórica - Individual) -04/10
-* Avaliação II  (Prova Prática - Individual) - 23/10
-* Avaliação III (Projeto - Duplas) - 18/12
+* Avaliação I   (Prova prática-teórica - Individual)
+* Avaliação II  (Prova Prática - Individual)
+* Avaliação III (Projeto - Duplas)
 
 * Reposição - Artigo no Jaguaribe Tech (aplicação de algoritmo e discussão em um post)
 * Final 
