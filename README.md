@@ -22,9 +22,10 @@ A nota final será computado através da média das avaliações:
 
 * Avaliação I   (Prova prática-teórica - Individual)
 * Avaliação II  (Prova Prática - Individual)
-* Avaliação III (Projeto - Duplas)
+* Avaliação III (Projeto - Duplas/Trio)
 
 * Reposição - Artigo no Jaguaribe Tech (aplicação de algoritmo e discussão em um post)
+
 * Final 
 
 
