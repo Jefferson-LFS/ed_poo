@@ -20,8 +20,8 @@ Toda a comunicação será realizada usando via classroom e email.
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I   (Prova prática-teórica - Individual)
-* Avaliação II  (Prova Prática - Individual)
+* Avaliação I   (Prova prática-teórica - Individual) - 02/04
+* Avaliação II  (Prova Prática - Individual) - 30/04
 * Avaliação III (Projeto - Duplas/Trio)
 
 * Reposição - Artigo no Jaguaribe Tech (aplicação de algoritmo e discussão em um post)
